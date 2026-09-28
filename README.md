@@ -1,1 +1,1 @@
-# deep-learning-for-hyperspectral-image-classification
+# DBCP: deep-learning-for-hyperspectral-image-classification
