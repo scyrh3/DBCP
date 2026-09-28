@@ -1,0 +1,16 @@
+
+========== Final 10-run Results ==========
+OA:       0.9868 ± 0.0031
+AA:       0.9503 ± 0.0124
+Kappa:    0.9826 ± 0.0041
+
+Per-class accuracy:
+Corn: 0.9993 ± 0.0005
+Cotton: 0.9653 ± 0.0247
+Sesame: 0.9467 ± 0.0396
+Broad-leaf soybean: 0.9962 ± 0.0016
+Narrow-leaf soybean: 0.9488 ± 0.0441
+Rice: 0.9879 ± 0.0258
+Water: 0.9999 ± 0.0001
+Roads and houses: 0.9441 ± 0.0268
+Mixed weed: 0.7646 ± 0.1103

@@ -1,0 +1,21 @@
+
+========== Final 10-run Results ==========
+OA:       0.9900 ± 0.0036
+AA:       0.9897 ± 0.0039
+Kappa:    0.9892 ± 0.0039
+
+Per-class accuracy:
+Water: 1.0000 ± 0.0000
+Hippo grass: 1.0000 ± 0.0000
+Hippo grass 1: 1.0000 ± 0.0000
+Hippo grass 2: 1.0000 ± 0.0000
+Reeds: 0.9192 ± 0.0496
+Riparian: 0.9819 ± 0.0046
+Firescar: 1.0000 ± 0.0000
+Island interior: 1.0000 ± 0.0000
+Acacia woodlands: 0.9993 ± 0.0014
+Acacia shrublands: 0.9955 ± 0.0091
+Acacia grasslands: 0.9993 ± 0.0022
+Short mopanc: 0.9982 ± 0.0055
+Mixed mopanc: 0.9983 ± 0.0038
+Chalcedony: 0.9635 ± 0.0416

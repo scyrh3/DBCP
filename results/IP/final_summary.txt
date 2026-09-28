@@ -1,0 +1,23 @@
+
+========== Final 10-run Results ==========
+OA:       0.9723 ± 0.0049
+AA:       0.9541 ± 0.0135
+Kappa:    0.9684 ± 0.0056
+
+Per-class accuracy:
+Alfalfa: 0.8357 ± 0.1332
+Corn-notill: 0.9597 ± 0.0210
+Corn-mintill: 0.9643 ± 0.0292
+Corn: 0.9268 ± 0.0773
+Grass-pasture: 0.9572 ± 0.0171
+Grass-trees: 0.9951 ± 0.0038
+Grass-pasture-mowed: 0.9538 ± 0.0662
+Hay-windrowed: 0.9995 ± 0.0009
+Oats: 0.8722 ± 0.1877
+Soybean-notill: 0.9587 ± 0.0134
+Soybean-mintill: 0.9818 ± 0.0074
+Soybean-clean: 0.9402 ± 0.0165
+Wheat: 0.9859 ± 0.0166
+Woods: 0.9977 ± 0.0030
+Buildings-Grass-Trees-Drives: 0.9601 ± 0.0536
+Stone-Steel-Towers: 0.9771 ± 0.0238
